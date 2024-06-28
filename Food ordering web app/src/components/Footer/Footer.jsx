@@ -12,12 +12,12 @@ const Footer = () => {
             Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptas
             vel dolore doloremque animi in necessitatibus possimus soluta, porro
             placeat id.
-            <div className="footer-social-icons">
-              <img src={assets.facebook_icon} alt="" />
-              <img src={assets.twitter_icon} alt="" />
-              <img src={assets.linkedin_icon} alt="" />
-            </div>
           </p>
+          <div className="footer-social-icons">
+            <img src={assets.facebook_icon} alt="" />
+            <img src={assets.twitter_icon} alt="" />
+            <img src={assets.linkedin_icon} alt="" />
+          </div>
         </div>
         <div className="footer-content-center">
           <h2>COMPANY</h2>
